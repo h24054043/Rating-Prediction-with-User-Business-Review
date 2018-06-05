@@ -22,7 +22,7 @@ Include the user_id and the encoding text
 
 Use the GridSearchCV select the parameters including the "C" and "gamma" 
 
-Model: SVM (SVR)
+Model: SVM (SVR),RandomForestClassifier , Logisitcal Regression , SGDRegressor
 
 # Predict
 The csv data includes the User_id and the stars
